@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="icon"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title">n0nakamura's icon</title>
+  <defs
+     id="defs234">
+    <linearGradient
+       id="linearGradient1490">
+      <stop
+         style="stop-color:#0061ff;stop-opacity:1;"
+         offset="0.21499905"
+         id="stop1486" />
+      <stop
+         style="stop-color:#0063ff;stop-opacity:0;"
+         offset="1"
+         id="stop1488" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1132">
+      <stop
+         style="stop-color:#0061ff;stop-opacity:0.9640286;"
+         offset="0.50539255"
+         id="stop1128" />
+      <stop
+         style="stop-color:#0063ff;stop-opacity:0;"
+         offset="1"
+         id="stop1130" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter10803"
+       x="-0.1812"
+       y="-0.02416"
+       width="1.3624001"
+       height="1.0483201">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="result3"
+         id="feGaussianBlur10777" />
+      <feComponentTransfer
+         result="result1"
+         in="result3"
+         id="feComponentTransfer10785">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncR10779" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncG10781" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncB10783" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         result="result5"
+         stdDeviation="0.01"
+         id="feGaussianBlur10787" />
+      <feBlend
+         in2="result5"
+         result="result6"
+         mode="lighten"
+         in="result5"
+         id="feBlend10789" />
+      <feColorMatrix
+         in="result6"
+         type="luminanceToAlpha"
+         result="result2"
+         id="feColorMatrix10791" />
+      <feSpecularLighting
+         surfaceScale="5"
+         result="result9"
+         specularExponent="20"
+         in="result2"
+         specularConstant="1"
+         id="feSpecularLighting10795">
+        <feDistantLight
+           azimuth="180"
+           elevation="90"
+           id="feDistantLight10793" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result6"
+         operator="arithmetic"
+         in="result9"
+         k1="0.4"
+         k3="0.7"
+         result="result3"
+         id="feComposite10797"
+         k2="0"
+         k4="0" />
+      <feBlend
+         in2="result1"
+         in="result3"
+         mode="normal"
+         result="result8"
+         id="feBlend10799" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result8"
+         operator="in"
+         result="result7"
+         id="feComposite10801" />
+    </filter>
+    <radialGradient
+       xlink:href="#linearGradient1132"
+       id="radialGradient1134"
+       cx="100"
+       cy="425"
+       fx="100"
+       fy="425"
+       r="13.624001"
+       gradientTransform="matrix(1,0,0,5.7709924,0,-2027.6718)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient1132"
+       id="radialGradient1134-3"
+       cx="100"
+       cy="425"
+       fx="100"
+       fy="425"
+       r="13.624001"
+       gradientTransform="matrix(1,0,0,5.7709924,0,-2027.6718)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter10803-5"
+       x="-0.1812"
+       y="-0.02416"
+       width="1.3624001"
+       height="1.0483201">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="result3"
+         id="feGaussianBlur10777-3" />
+      <feComponentTransfer
+         result="result1"
+         in="result3"
+         id="feComponentTransfer10785-5">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncR10779-6" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncG10781-2" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncB10783-9" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         result="result5"
+         stdDeviation="0.01"
+         id="feGaussianBlur10787-1" />
+      <feBlend
+         in2="result5"
+         result="result6"
+         mode="lighten"
+         in="result5"
+         id="feBlend10789-2" />
+      <feColorMatrix
+         in="result6"
+         type="luminanceToAlpha"
+         result="result2"
+         id="feColorMatrix10791-7" />
+      <feSpecularLighting
+         surfaceScale="5"
+         result="result9"
+         specularExponent="20"
+         in="result2"
+         specularConstant="1"
+         id="feSpecularLighting10795-0">
+        <feDistantLight
+           azimuth="180"
+           elevation="90"
+           id="feDistantLight10793-9" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result6"
+         operator="arithmetic"
+         in="result9"
+         k1="0.4"
+         k3="0.7"
+         result="result3"
+         id="feComposite10797-3"
+         k2="0"
+         k4="0" />
+      <feBlend
+         in2="result1"
+         in="result3"
+         mode="normal"
+         result="result8"
+         id="feBlend10799-6" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result8"
+         operator="in"
+         result="result7"
+         id="feComposite10801-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1393"
+       x="-0.12"
+       y="-0.112"
+       width="1.24"
+       height="1.224">
+      <feGaussianBlur
+         stdDeviation="1 7"
+         result="blur"
+         id="feGaussianBlur1391" />
+    </filter>
+    <radialGradient
+       xlink:href="#linearGradient1490"
+       id="radialGradient1134-3-2"
+       cx="100"
+       cy="425"
+       fx="100"
+       fy="425"
+       r="13.624001"
+       gradientTransform="matrix(1,0,0,5.7709924,0,-2027.6718)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter10803-5-8"
+       x="-0.1812"
+       y="-0.02416"
+       width="1.3624001"
+       height="1.0483201">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="1.5"
+         result="result3"
+         id="feGaussianBlur10777-3-7" />
+      <feComponentTransfer
+         result="result1"
+         in="result3"
+         id="feComponentTransfer10785-5-9">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncR10779-6-2" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncG10781-2-0" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1"
+           id="feFuncB10783-9-2" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         result="result5"
+         stdDeviation="0.01"
+         id="feGaussianBlur10787-1-3" />
+      <feBlend
+         in2="result5"
+         result="result6"
+         mode="lighten"
+         in="result5"
+         id="feBlend10789-2-7" />
+      <feColorMatrix
+         in="result6"
+         type="luminanceToAlpha"
+         result="result2"
+         id="feColorMatrix10791-7-5" />
+      <feSpecularLighting
+         surfaceScale="5"
+         result="result9"
+         specularExponent="20"
+         in="result2"
+         specularConstant="1"
+         id="feSpecularLighting10795-0-9">
+        <feDistantLight
+           azimuth="180"
+           elevation="90"
+           id="feDistantLight10793-9-2" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result6"
+         operator="arithmetic"
+         in="result9"
+         k1="0.4"
+         k3="0.7"
+         result="result3"
+         id="feComposite10797-3-2"
+         k2="0"
+         k4="0" />
+      <feBlend
+         in2="result1"
+         in="result3"
+         mode="normal"
+         result="result8"
+         id="feBlend10799-6-8" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result8"
+         operator="in"
+         result="result7"
+         id="feComposite10801-0-9" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>n0nakamura's icon</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2023 Noritoshi Nakamura All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2023-04-27T21:00</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.2"
+     id="background"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <ellipse
+     style="display:inline;fill:#786721;stroke:#333333;stroke-width:20"
+     id="shell"
+     ry="300"
+     rx="200"
+     cy="450"
+     cx="600" />
+  <path
+     style="display:inline;fill:#ffeeaa;stroke:#333333;stroke-width:20"
+     d="m 100,500 v 200 c 0,0 50,200 400,200 350,0 400,-200 400,-200 0,0 -100,50 -300,50 C 400,750 350,650 350,650 V 450 c 0,-50 -250,-63 -250,50 z"
+     id="body" />
+  <rect
+     style="display:inline;fill:url(#radialGradient1134-3-2);fill-opacity:1;stroke:none;filter:url(#filter10803-5-8)"
+     id="eye_emission-6-7"
+     width="20"
+     height="150"
+     x="90"
+     y="350"
+     transform="matrix(34.597956,0,0,2.8272123,-3318.028,-772.98578)" />
+  <rect
+     style="display:inline;fill:url(#radialGradient1134);fill-opacity:1;stroke:none;filter:url(#filter10803)"
+     id="eye_r_emission"
+     width="20"
+     height="150"
+     x="90"
+     y="350"
+     transform="matrix(4.1841613,0,0,2.3411793,-316.96646,-568.65632)" />
+  <rect
+     style="display:inline;fill:url(#radialGradient1134-3);fill-opacity:1;stroke:none;filter:url(#filter10803-5)"
+     id="eye_r_emission-6"
+     width="20"
+     height="150"
+     x="90"
+     y="350"
+     transform="matrix(4.2893007,0,0,2.3411793,-223.01782,-568.39607)" />
+  <rect
+     style="fill:#72e4ff;fill-opacity:1;stroke:none;filter:url(#filter1393)"
+     id="eye_r"
+     width="20"
+     height="150"
+     x="90"
+     y="350" />
+  <rect
+     style="fill:#72e4ff;fill-opacity:1;stroke:none;filter:url(#filter1393)"
+     id="eye_l"
+     width="20"
+     height="150"
+     x="190"
+     y="350" />
+</svg>

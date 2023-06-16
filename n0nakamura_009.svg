@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="icon"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title">n0nakamura's icon</title>
+  <defs
+     id="defs234" />
+  <metadata
+     id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>n0nakamura's icon</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2023 Noritoshi Nakamura All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2023-04-27T21:00</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.2"
+     id="background"
+     width="1000"
+     height="1000"
+     x="0"
+     y="0" />
+  <ellipse
+     style="display:inline;fill:#786721;stroke:#333333;stroke-width:20"
+     id="shell"
+     ry="300"
+     rx="200"
+     cy="450"
+     cx="600" />
+  <path
+     style="display:inline;fill:#ffeeaa;stroke:#333333;stroke-width:20"
+     d="m 100,500 v 200 c 0,0 50,200 400,200 350,0 400,-200 400,-200 0,0 -100,50 -300,50 C 400,750 350,650 350,650 V 450 c 0,-50 -250,-63 -250,50 z"
+     id="body" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:20"
+     d="M 100,350 V 500"
+     id="eye_r" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:20"
+     d="M 200,350 V 500"
+     id="eye_l" />
+</svg>
